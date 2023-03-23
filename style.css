@@ -1,0 +1,173 @@
+*{
+   margin: 15;
+   padding: 0;
+   border: 0;
+   font-size: 100%;
+   vertical-align: baseline;
+}
+
+header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.head {
+
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   height: 62px;
+   background: #171717;
+   width: 100%;
+   z-index: 100%;
+}
+
+.content {
+
+   padding: 35px;
+   text-align: center;
+}
+
+
+
+
+
+
+.navbar {
+   display: flex;
+   margin-right: 10px;
+
+}
+.navbar a {
+   display: block;
+   padding: 20px 116px;
+   color: #fff;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-size: 20px;
+}
+.navbar a:hover {
+   background: #3f3f3f;
+}
+.header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.header {
+   height: 50vh !important;
+   background: url(IMAGENES/5.jpg) no-repeat center;
+   background-size: cover;
+}
+
+
+
+
+
+.title {
+   margin-bottom: 40px;
+   font-size: 40px;
+   font-weight: 400px;
+   text-transform: uppercase;
+   color:#fff;
+position: center;
+}
+
+p {
+   margin-bottom: 20px;
+   font-size: 24px;
+   color:#fff;
+   
+}
+
+
+.dd {
+
+   margin-bottom: 20px;
+   font-size: 23px;
+
+   color: #171717;
+}
+
+
+
+.btn:hover {
+   display: none
+}
+
+.btn-home {
+   display: flex;
+}
+
+.btn-home a {
+   margin: 0 10px;
+}
+
+.content {
+   height:  70vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.sau {
+   padding: 30px;
+   background: 50px #1f1d1d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.imagen {
+
+   background-image: url(IMAGENES/Black\ White\ Photo\ City\ Good\ Night\ Instagram\ Post5y.png);
+  background-repeat: no-repeat;
+}
+
+
+.img {
+
+   background-image: url(IMAGENES/computo23.png);
+   background-repeat: relative;
+}
+
+
+.uno{
+
+   display:flex;
+   margin-bottom: 50px;
+  
+
+}
+
+.price {
+   background: url(IMAGENES/pagina1234.jpg) no-repeat center;
+   background-attachment: fixed;
+   background-size: cover;
+   text-align: center;
+
+
+}
+
+.conteiner {
+   background-image: url(IMAGENES/DiegoMa.mp4);
+   border: #3f3f3f;
+}
+
+
+
+
+
+
+
